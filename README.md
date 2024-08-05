@@ -1,4 +1,4 @@
-#Entrega do Lab de previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+# Entrega do Lab de previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Neste Lab segui os passos para a criação de um modelo preditivo descritos no curso. Como dataset decidi desenvolver um script python para gerar modelos de estoque, criei um cenário imaginário de um loja de produtos Gaúchos na Itália. Dessa forma para testar os modelos da pra gerar diferentes datasets a partir do código que está na pasta datasets desse repositório.
 
